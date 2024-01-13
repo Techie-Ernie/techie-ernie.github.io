@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 h1 span {
-	color: #99635e
+	color: #FF5768
 }
 h1 span::before {
 	content: "";
