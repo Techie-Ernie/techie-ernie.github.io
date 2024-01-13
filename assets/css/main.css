@@ -29,8 +29,17 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
-
-
+h1 span {
+	color: #99635e
+}
+h1 span::before {
+	content: "";
+	right: -8px;
+	top: 50%;
+	position: absolute;
+	animation: blink 0.7s infinite;
+	
+}
 ol, ul {
 	list-style: none;
 }
