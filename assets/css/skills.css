@@ -1,0 +1,42 @@
+
+* {
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+.skills {
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+}
+
+.skill-name {
+    margin: 20px 0;
+}
+
+.skill-bar {
+    height: 14px;
+    background: #e3d0d1;
+    border-radius: 3px;
+}
+
+.skill-percent {
+    height: 14px;
+    background: #8d82c4;
+    border-radius: 3px;
+    position: relative;
+    animation: fillBars 2.5s ;
+}
+
+@keyframes fillBars
+{
+    from {
+        width: 0%;
+    }
+    to {
+        width: 100%;
+    }
+}
