@@ -32,14 +32,7 @@ footer, header, hgroup, menu, nav, section {
 h1 span {
 	color: #FF5768
 }
-h1 span::before {
-	content: "";
-	right: -8px;
-	top: 50%;
-	position: absolute;
-	animation: blink 0.7s infinite;
-	
-}
+
 ol, ul {
 	list-style: none;
 }
