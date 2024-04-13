@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Projects"
-    url: /projects/
+    url: /portfolio/
 
   - title: "Qualifications"
-    url: /year-archive/
+    url: /projects/
 
   - title: "Skills"
     url: /cv/
