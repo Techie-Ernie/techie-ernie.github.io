@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 ## 👋 Hello there, I'm Ernest
-### I'm passionate about robotics 🤖 and programming 🖥️.  
-  
+### I'm passionate about robotics 🤖 and programming 🖥️. 
 
 
 

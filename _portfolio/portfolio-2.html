@@ -1,5 +1,16 @@
 ---
-title: "Lumda"
-excerpt: "Productivity App in Flutter <br /><img src='/images/Project Images/lumda_phone.PNG'>"
+title: "VTok 1.0"
+excerpt: |
+    A program that downloads a VALORANT match and outputs highlights<br />
+    <img src='/images/Project Images/vtok.png'>
+
 collection: portfolio
 ---
+
+A program made in Python, using libraries such as yt-dlp, moviepy, opencv, pyscenedetect and easyocr.
+The program downloads a full video of a professional VALORANT match using yt-dlp and attempts to cut the video into
+scenes using pyscenedetect. OpenCV is used to find the middle frame of each clip which is passed through EasyOCR to
+check for the presence of "replay", which is an indication of a highlight worth including. The videos are sent through a
+ffmpeg script and made into a video using MoviePy.
+<br>
+Demo Video: <a href="https://www.youtube.com/shorts/FG8DNT---RI">Video</a>
