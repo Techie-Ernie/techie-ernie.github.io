@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 ## 👋 Hello there, I'm Ernest
-### I'm passionate about robotics 🤖 and programming 🖥️. 
+### I'm passionate about robotics 🤖 and programming 🖥️.  
+  
+
+
+
 
 # Experience
 ## Robotics
@@ -29,13 +33,15 @@ redirect_from:
 
 
 ## Skills
+
 ### Programming
 - MicroPython 
 - Python 🐍
 - C 
 - Dart
+
 ### Others
 - Linux 🐧(experience with Debian and Arch-based distributions)
 - Video Editing (Davinci Resolve)
 - 3D Modelling and Design (blender)
-- 
+- Top 7% Valorant Player
