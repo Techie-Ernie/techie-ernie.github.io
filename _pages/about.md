@@ -8,9 +8,11 @@ redirect_from:
 ---
 
 ## 👋 Hello there, I'm Ernest
-### I'm passionate about robotics 🤖 and programming 🖥️. 
+When I was 9, I discovered the magic of programming when I started learning Scratch. It didn't take long before I becomme a computer nerd. 🤓 I soon got into game development, ethical hacking, GNU/Linux, mobile app development, machine learning and more. I learnt to run Minecraft servers on old school laptops, made a couple of both unfinished and finished programs, including Lumda, a producitivity app and Ernest's UFO Adventure, which was my first and last venture into game development.
 
+Currently, I am interested in robotics and computer vision, but I'm also eager to learn more about all things computer-related, such as data structures, electronics and AI.
 
+When I'm not coding, I'm often trying playing VALORANT, studying Physics or watching Detective Conan.
 
 
 # Experience
