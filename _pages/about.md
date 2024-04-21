@@ -45,4 +45,4 @@ When I'm not coding, I'm often trying playing VALORANT, studying Physics or watc
 - Linux 🐧(experience with Debian and Arch-based distributions)
 - Video Editing (Davinci Resolve)
 - 3D Modelling and Design (blender)
-- Top 7% Valorant Player
+- Top 4.8% Valorant Player
