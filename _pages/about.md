@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## 👋 Hello there, I'm Ernest
-Ever since discovering programming in Primary 3, I have had a burning passion to learn more about the world of computing. This is my personal portfolio, showcasing most of my projects and experiments I have worked on in the past few years.
+Ever since discovering programming in Primary 3, I have had a burning passion to learn more about the world of computing. This is my personal portfolio, showcasing most of my projects and experiments I have worked on in the past few years.\
 Throughout my programming journey, I've taken interest in many sub-fields, such as game development, ethical hacking, web development, mobile app development and more. Currently, my interest lies in robotics, automation and computer vision. 
 
 
